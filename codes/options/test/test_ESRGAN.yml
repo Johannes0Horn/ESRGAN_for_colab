@@ -13,7 +13,6 @@ datasets:
     #mode: LQGT
     #dataroot_GT: /content/set14preprocessed/HR/x4
     dataroot_LQ: /content/set14preprocessed/LR/x4
-    dataroot_LR: /content/set14preprocessed/LR/x4
 
 
 
