@@ -8,10 +8,10 @@ gpu_ids: [0]
 
 datasets:
   test_1:  # the 1st test dataset
-    name: Set14
+    name: Set14_5
     mode: LQGT
-    dataroot_GT: /content/set14preprocessed/HR/x4
-    dataroot_LQ: /content/set14preprocessed/LR/x4
+    dataroot_GT: /content/set14_5preprocessed/HR/x4
+    dataroot_LQ: /content/set14_5preprocessed/LR/x4
 
 
 
