@@ -28,7 +28,6 @@ def _get_paths_from_images(path):
                 img_path = os.path.join(dirpath, fname)
                 images.append(img_path)
     assert images, '{:s} has no valid image file'.format(path)
-    print("images: ", images)
     return images
 
 
