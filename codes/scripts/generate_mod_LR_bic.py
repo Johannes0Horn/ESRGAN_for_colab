@@ -15,8 +15,8 @@ def generate_mod_LR_bic():
     up_scale = 4
     mod_scale = 4
     # set data dir
-    sourcedir = '/content/Set14'
-    savedir = '/content/set14preprocessed'
+    sourcedir = '/content/Set14_Set5'
+    savedir = '/content/set14_5preprocessed'
 
     saveHRpath = os.path.join(savedir, 'HR', 'x' + str(mod_scale))
     saveLRpath = os.path.join(savedir, 'LR', 'x' + str(up_scale))
