@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codes/options/test/test_ESRGAN.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="442">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codes/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="306">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/codes/data/__init__.py" />
         <option value="$PROJECT_DIR$/../InferenceESRGANAnyPic/test.py" />
         <option value="$PROJECT_DIR$/codes/scripts/generate_mod_LR_bic.py" />
-        <option value="$PROJECT_DIR$/codes/options/test/test_ESRGAN.yml" />
         <option value="$PROJECT_DIR$/codes/models/__init__.py" />
+        <option value="$PROJECT_DIR$/codes/options/test/test_ESRGAN.yml" />
         <option value="$PROJECT_DIR$/codes/test.py" />
       </list>
     </option>
@@ -198,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563201523605</updated>
-      <workItem from="1563201524789" duration="12016000" />
+      <workItem from="1563201524789" duration="12264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12016000" />
+    <option name="totallyTimeSpent" value="12264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="253" y="75" width="1400" height="1000" extended-state="0" />
@@ -359,13 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codes/options/test/test_ESRGAN.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codes/options/options.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
@@ -376,10 +369,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codes/options/test/test_ESRGAN.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codes/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="306">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
