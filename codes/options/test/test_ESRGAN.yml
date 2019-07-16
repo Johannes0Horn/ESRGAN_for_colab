@@ -24,6 +24,6 @@ network_G:
   nb: 23
   upscale: 4
 
-#### path
-#path:
-#  pretrain_model_G: /content/RRDB_ESRGAN_x4.pth
+#### path unused
+path:
+  pretrain_model_G: /content/RRDB_ESRGAN_x4.pth

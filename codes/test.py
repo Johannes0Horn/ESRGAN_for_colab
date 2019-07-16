@@ -20,7 +20,7 @@ opt = option.dict_to_nonedict(opt)
 #variable model
 print("model_path", model_path)
 
-opt['path'][pretrain_model_G] = sys.argv[1]
+opt['path'][pretrain_model_G] = model_path
 
 
 util.mkdirs(
