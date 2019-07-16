@@ -9,12 +9,18 @@ import utils.util as util
 from data.util import bgr2ycbcr
 from data import create_dataset, create_dataloader
 from models import create_model
+import sys
 
 #### options
 parser = argparse.ArgumentParser()
 parser.add_argument('-opt', type=str, required=True, help='Path to options YMAL file.')
 opt = option.parse(parser.parse_args().opt, is_train=False)
 opt = option.dict_to_nonedict(opt)
+#variable model
+print("model_path", sys.argv[1])
+
+opt['path'][pretrain_model_G] = sys.argv[1]
+
 
 util.mkdirs(
     (path for key, path in opt['path'].items()
