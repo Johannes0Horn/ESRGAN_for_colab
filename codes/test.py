@@ -19,8 +19,7 @@ opt = option.parse(parser.parse_args().opt, is_train=False)
 opt = option.dict_to_nonedict(opt)
 #variable model
 print("model_path", model_path)
-print(opt['path'])
-opt['path'][pretrain_model_G] = model_path
+opt['path']['pretrain_model_G'] = model_path
 
 
 util.mkdirs(
